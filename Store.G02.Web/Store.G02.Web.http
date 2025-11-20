@@ -1,0 +1,6 @@
+@Store.G02.Web_HostAddress = http://localhost:5200
+
+GET {{Store.G02.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
